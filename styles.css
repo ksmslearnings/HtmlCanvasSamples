@@ -1,7 +1,23 @@
 #hello-world-canvas{
     border: 1px solid black;
     display: block;
-    width: 600px;
-    height: 300px;
+    width: 1200px;
+    height: 400px;
+    margin: 0px auto;
+}
+
+#rect-canvas{
+    border: 1px solid black;
+    display: block;
+    width: 1200px;
+    height: 600px;
+    margin: 0px auto;
+}
+
+#polygon-canvas{
+    border: 1px solid black;
+    display: block;
+    width: 1200px;
+    height: 600px;
     margin: 0px auto;
 }
