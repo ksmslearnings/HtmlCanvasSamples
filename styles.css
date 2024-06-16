@@ -21,3 +21,19 @@
     height: 600px;
     margin: 0px auto;
 }
+
+#drawtext-canvas{
+    border: 1px solid black;
+    display: block;
+    width: 800px;
+    height: 300px;
+    margin: 0px auto;
+}
+
+#positioning-texts-canvas{
+    border: 1px solid black;
+    display: block;
+    width: 800px;
+    height: 300px;
+    margin: 0px auto;
+}
