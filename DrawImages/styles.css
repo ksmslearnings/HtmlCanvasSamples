@@ -1,0 +1,15 @@
+#drawImg-canvas{
+    border: 1px solid black;
+    display: block;
+    width: 1200px;
+    height: 400px;
+    margin: 0px auto;
+}
+
+#drawImg-canvas-filtering{
+    border: 1px solid black;
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0px auto;
+}
